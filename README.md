@@ -1,7 +1,12 @@
+         -::J0K36::-
+
 <h1 align="center">TBomb v1.7b</h1>
 <p align="center">An open-source SMS/call bomber for Linux And Termux.</p><br>
 
 ## Note:
+
+
+
 
 - The script requires working network connection to work.
 - No balance will be deducted for using this script to send SMS/calls.
